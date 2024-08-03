@@ -1,5 +1,7 @@
 # React + Vite
 
+A basic project of react practise - multiple product card list using dummy api with searching functionality
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
